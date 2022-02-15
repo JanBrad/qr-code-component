@@ -46,10 +46,7 @@ img {
 }
 
 .move {
-   
-    border-radius: 1rem;
-    
-    
+    border-radius: 1rem; /*Border radius around content box*/
 }
 
 .move {
